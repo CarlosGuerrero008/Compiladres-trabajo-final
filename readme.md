@@ -1,4 +1,7 @@
-                                                                DSL para Consultas Dinámicas sobre Inventarios CSV
+
+DSL para Consultas Dinámicas sobre Inventarios CSV
+
+
 Objetivo del Proyecto
     Diseñar e implementar un mini-compilador funcional basado en un Lenguaje de Dominio Específico (DSL), que permita realizar consultas dinámicas y secuenciales sobre archivos CSV de inventarios. Se usa ANTLR4 y Python para procesar, filtrar y agregar datos de forma sencilla y extensible.
 
